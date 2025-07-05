@@ -18,7 +18,7 @@ def clean_text(text):
     text = " ".join(word for word in text.split() if word not in stop_words) # Remove stopwords like "the", "is", "in"
     return text
 
-df = pd.read_csv("data/FakeNewsNet.csv")
+df = pd.read_csv("dataset/FakeNewsNet.csv")
 df = df[['title', 'real']]      
 df.columns = ['text', 'label']   
 df['text'] = df['text'].apply(clean_text)  # Clean text
