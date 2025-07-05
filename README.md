@@ -1,5 +1,7 @@
 ✅ Project Checklist: Fake News Detection using SVM
+
 🧑‍🤝‍🧑 Group & Proposal
+
 [✅] Form group (4–5 members)
 
 [✅] Assign roles to each member
@@ -17,6 +19,7 @@
 [✅] Submit proposal
 
 💻 Develop the Solution
+
 [✅] Load dataset with pandas
 
 [✅] Select required columns (e.g. title, real)
@@ -44,6 +47,7 @@
 [✅] Add comments and make code readable
 
 📘 User Manual
+
 [🔲] Write installation steps (e.g. how to run, install libraries)
 
 [🔲] Include usage instructions
@@ -53,6 +57,7 @@
 [🔲] Save manual as PDF or Word document
 
 🔄 Flowchart & Pseudocode
+
 [🔲] Draw flowchart showing system workflow
 
 [🔲] Write pseudocode to explain logic
@@ -75,6 +80,7 @@
 [🔲] References (APA/IEEE style)
 
 📄 Research Paper (Springer/IJIC Format)
+
 [🔲] Title and group member names
 
 [🔲] Abstract
@@ -90,6 +96,7 @@
 [🔲] Use correct formatting and structure
 
 🎥 Project Presentation
+
 [🔲] Prepare PowerPoint slides (problem, method, result, conclusion)
 
 [🔲] Include flowchart or screenshots in slides
@@ -99,6 +106,7 @@
 [🔲] Make sure all members participate
 
 📤 Final Submission
+
 [🔲] Upload research paper (Springer/IJIC format)
 
 [🔲] Upload source code + user manual + flowchart + pseudocode
@@ -108,6 +116,7 @@
 [🔲] Use correct filename (e.g., AliSaraMohd.pdf/.zip)
 
 🧾 Meeting Report
+
 [🔲] Write one-page meeting summary and task delegation
 
 [🔲] Sign by all group members
