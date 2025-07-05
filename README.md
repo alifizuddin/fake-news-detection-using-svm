@@ -46,13 +46,13 @@
 
 ## 📘 User Manual
 
-[🔲] Write installation steps (e.g. how to run, install libraries)
+[✅] Write installation steps (e.g. how to run, install libraries)
 
-[🔲] Include usage instructions
+[✅] Include usage instructions
 
-[🔲] Add screenshots of model running or interface
+[✅] Add screenshots of model running or interface
 
-[🔲] Save manual as PDF or Word document
+[✅] Save manual as PDF or Word document
 
 ## 🔄 Flowchart & Pseudocode
 
