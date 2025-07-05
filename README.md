@@ -1,131 +1,116 @@
-📅 Project Planning and Proposal
-🔲 Form Group (4–5 students)
- Group members finalized
+✅ Project Checklist: Fake News Detection using SVM
+🧑‍🤝‍🧑 Group & Proposal
+[✅] Form group (4–5 members)
 
- Roles assigned
+[✅] Assign roles to each member
 
-🔲 Identify Problem
- Chosen problem: Fake News Detection
+[✅] Choose a real-world problem: Fake News Detection
 
- Dataset selected from reliable source (e.g., Kaggle)
+[✅] Choose dataset (e.g., from Kaggle)
 
- Problem is suitable for computational intelligence
+[✅] Choose algorithm: Support Vector Machine (SVM)
 
-🔲 Select Algorithm
- Chosen algorithm: SVM
+[✅] Write justification for using SVM
 
- Justification for SVM provided
+[✅] Prepare proposal
 
-🔲 Submit Proposal
- Problem description
+[✅] Submit proposal
 
- Dataset summary
+💻 Develop the Solution
+[✅] Load dataset with pandas
 
- Algorithm justification
+[✅] Select required columns (e.g. title, real)
 
- Tentative timeline (Week-by-week plan)
+[✅] Preprocess and clean text data
 
- Task delegation (who does what)
+[✅] Convert text to numbers using TF-IDF
 
- Proposal submitted by Week 5
+[✅] Split data into training and testing sets
 
-📅 Implementation Phase
-🔲 Develop the Solution
- Clean and preprocess the dataset
+[✅] Train model using SVM
 
- Convert text to TF-IDF vectors
+[✅] Evaluate model accuracy and classification report
 
- Split data into train/test
+[✅] Try improvements (e.g. ngram_range, stop_words)
 
- Train and evaluate SVM model
+[✅] Create prediction function for user input
 
- Improve model (e.g., hyperparameters, TF-IDF tuning)
+[🔲] Add command-line input (optional)
 
- Allow user input via command line or GUI
+[🔲] Create GUI using tkinter (optional)
 
- Code is well-documented and commented
+[✅] Organize code in one file (main.py)
 
-🔲 Create a User Manual
- Installation guide (e.g., pip install ...)
+[✅] Add comments and make code readable
 
- Step-by-step usage instructions
+📘 User Manual
+[🔲] Write installation steps (e.g. how to run, install libraries)
 
- Include screenshots (e.g., GUI interface or terminal output)
+[🔲] Include usage instructions
 
- Save as PDF or DOCX
+[🔲] Add screenshots of model running or interface
 
-🔲 Prepare Flowchart and Pseudocode
- Create a workflow flowchart (e.g., using draw.io)
+[🔲] Save manual as PDF or Word document
 
- Write clear pseudocode for your full implementation
+🔄 Flowchart & Pseudocode
+[🔲] Draw flowchart showing system workflow
 
- Include both in documentation and slides
+[🔲] Write pseudocode to explain logic
 
-📅 Final Documentation & Reporting
-🔲 Final Report (7 Sections)
- Declaration page signed by all members
+[🔲] Include both in final report or appendix
 
- Introduction (problem & significance)
+📝 Final Report
+[🔲] Declaration page (signed by members)
 
- Algorithm selection (why SVM is suitable)
+[🔲] Introduction (explain problem and importance)
 
- Development steps (how solution was built + user manual)
+[🔲] Algorithm selection (justify SVM)
 
- Results and discussion (accuracy, improvements, limitations)
+[🔲] Development steps (based on user manual)
 
- Conclusion (summary + future work)
+[🔲] Results and discussion (accuracy, findings)
 
- References (APA or IEEE style)
+[🔲] Conclusion (summary + suggestions)
 
-🔲 Research Paper (Springer/IJIC Format)
- Title and group member names
+[🔲] References (APA/IEEE style)
 
- Abstract (concise summary)
+📄 Research Paper (Springer/IJIC Format)
+[🔲] Title and group member names
 
- Background and literature review
+[🔲] Abstract
 
- Methodology (detailed approach)
+[🔲] Background and literature review
 
- Results and discussion
+[🔲] Methodology (detailed explanation)
 
- Conclusion and references
+[🔲] Results and discussion
 
- Formatted correctly using template
+[🔲] Conclusion and references
 
-📅 Final Presentation
-🔲 Prepare Slides
- Problem statement
+[🔲] Use correct formatting and structure
 
- Chosen algorithm and justification
+🎥 Project Presentation
+[🔲] Prepare PowerPoint slides (problem, method, result, conclusion)
 
- Implementation steps (with visuals)
+[🔲] Include flowchart or screenshots in slides
 
- Results and analysis
+[🔲] Record video presentation (5–10 mins)
 
- Conclusion and future work
+[🔲] Make sure all members participate
 
-🔲 Video Presentation
- All members appear and speak
+📤 Final Submission
+[🔲] Upload research paper (Springer/IJIC format)
 
- 5–10 minute demo included
+[🔲] Upload source code + user manual + flowchart + pseudocode
 
- Clearly explain results
+[🔲] Upload slides and video presentation
 
- Video file is high-quality and clear
+[🔲] Use correct filename (e.g., AliSaraMohd.pdf/.zip)
 
-📤 Final Submission Requirements
-🔲 On e-Learning (Softcopy)
- ShortMembersName.pdf – Research paper (Springer/IJIC format)
+🧾 Meeting Report
+[🔲] Write one-page meeting summary and task delegation
 
- ShortMembersName.zip – Source code + user manual + documentation
+[🔲] Sign by all group members
 
- ShortMembersName.pptx – Slide presentation
+[🔲] Submit with other documents
 
- ShortMembersName.mp4 – Video presentation
-
-🔲 Meeting Report
- One-page summary of meetings & task delegation
-
- Signed by all group members
-
- Submitted by team leader
