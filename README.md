@@ -1,14 +1,14 @@
-✅ Project Checklist: Fake News Detection using SVM
+# ✅ Project Checklist: Fake News Detection using SVM
 
-🧑‍🤝‍🧑 Group & Proposal
+## 🧑‍🤝‍🧑 Group & Proposal
 
 [✅] Form group (4–5 members)
 
 [✅] Assign roles to each member
 
-[✅] Choose a real-world problem: Fake News Detection
+[✅] Choose a problem: Fake News Detection
 
-[✅] Choose dataset (e.g., from Kaggle)
+[✅] Choose dataset 
 
 [✅] Choose algorithm: Support Vector Machine (SVM)
 
@@ -18,7 +18,7 @@
 
 [✅] Submit proposal
 
-💻 Develop the Solution
+## 💻 Develop the Solution
 
 [✅] Load dataset with pandas
 
@@ -38,15 +38,13 @@
 
 [✅] Create prediction function for user input
 
-[🔲] Add command-line input (optional)
-
-[🔲] Create GUI using tkinter (optional)
+[✅] Create GUI using tkinter
 
 [✅] Organize code in one file (main.py)
 
 [✅] Add comments and make code readable
 
-📘 User Manual
+## 📘 User Manual
 
 [🔲] Write installation steps (e.g. how to run, install libraries)
 
@@ -56,7 +54,7 @@
 
 [🔲] Save manual as PDF or Word document
 
-🔄 Flowchart & Pseudocode
+## 🔄 Flowchart & Pseudocode
 
 [🔲] Draw flowchart showing system workflow
 
@@ -64,7 +62,8 @@
 
 [🔲] Include both in final report or appendix
 
-📝 Final Report
+## 📝 Final Report
+
 [🔲] Declaration page (signed by members)
 
 [🔲] Introduction (explain problem and importance)
@@ -79,7 +78,7 @@
 
 [🔲] References (APA/IEEE style)
 
-📄 Research Paper (Springer/IJIC Format)
+## 📄 Research Paper (Springer/IJIC Format)
 
 [🔲] Title and group member names
 
@@ -95,7 +94,7 @@
 
 [🔲] Use correct formatting and structure
 
-🎥 Project Presentation
+## 🎥 Project Presentation
 
 [🔲] Prepare PowerPoint slides (problem, method, result, conclusion)
 
@@ -105,7 +104,7 @@
 
 [🔲] Make sure all members participate
 
-📤 Final Submission
+## 📤 Final Submission
 
 [🔲] Upload research paper (Springer/IJIC format)
 
@@ -115,7 +114,7 @@
 
 [🔲] Use correct filename (e.g., AliSaraMohd.pdf/.zip)
 
-🧾 Meeting Report
+## 🧾 Meeting Report
 
 [🔲] Write one-page meeting summary and task delegation
 
