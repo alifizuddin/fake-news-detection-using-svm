@@ -56,27 +56,27 @@
 
 ## 🔄 Flowchart & Pseudocode
 
-[🔲] Draw flowchart showing system workflow
+[✅] Draw flowchart showing system workflow
 
-[🔲] Write pseudocode to explain logic
+[✅] Write pseudocode to explain logic
 
-[🔲] Include both in final report or appendix
+[✅] Include both in final report or appendix
 
 ## 📝 Final Report
 
 [🔲] Declaration page (signed by members)
 
-[🔲] Introduction (explain problem and importance)
+[✅] Introduction (explain problem and importance)
 
-[🔲] Algorithm selection (justify SVM)
+[✅] Algorithm selection (justify SVM)
 
-[🔲] Development steps (based on user manual)
+[✅] Development steps (based on user manual)
 
-[🔲] Results and discussion (accuracy, findings)
+[✅] Results and discussion (accuracy, findings)
 
-[🔲] Conclusion (summary + suggestions)
+[✅] Conclusion (summary + suggestions)
 
-[🔲] References (APA/IEEE style)
+[✅] References (APA/IEEE style)
 
 ## 📄 Research Paper (Springer/IJIC Format)
 
@@ -84,7 +84,7 @@
 
 [🔲] Abstract
 
-[🔲] Background and literature review
+[✅] Background and literature review
 
 [🔲] Methodology (detailed explanation)
 
