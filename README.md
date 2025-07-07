@@ -1,4 +1,4 @@
-# ✅ Project Checklist: Fake News Detection using SVM
+![image](https://github.com/user-attachments/assets/266d91fd-9480-4ab6-a6d5-589cf4926e53)# ✅ Project Checklist: Fake News Detection using SVM
 
 ## 🧑‍🤝‍🧑 Group & Proposal
 
@@ -112,7 +112,7 @@
 
 [🔲] Upload slides and video presentation
 
-[🔲] Use correct filename (e.g., AliSaraMohd.pdf/.zip)
+[✅] Use correct filename (e.g., AliSaraMohd.pdf/.zip)
 
 ## 🧾 Meeting Report
 
