@@ -80,35 +80,35 @@
 
 ## 📄 Research Paper (Springer/IJIC Format)
 
-[🔲] Title and group member names
+[✅] Title and group member names
 
-[🔲] Abstract
+[✅] Abstract
 
 [✅] Background and literature review
 
 [✅] Methodology (detailed explanation)
 
-[🔲] Results and discussion
+[✅] Results and discussion
 
-[🔲] Conclusion and references
+[✅] Conclusion and references
 
-[🔲] Use correct formatting and structure
+[✅] Use correct formatting and structure
 
 ## 🎥 Project Presentation
 
-[🔲] Prepare PowerPoint slides (problem, method, result, conclusion)
+[✅] Prepare PowerPoint slides (problem, method, result, conclusion)
 
-[🔲] Include flowchart or screenshots in slides
+[✅] Include flowchart or screenshots in slides
 
-[🔲] Record video presentation (5–10 mins)
+[✅] Record video presentation (5–10 mins)
 
-[🔲] Make sure all members participate
+[✅] Make sure all members participate
 
 ## 📤 Final Submission
 
-[🔲] Upload research paper (Springer/IJIC format)
+[✅] Upload research paper (Springer/IJIC format)
 
-[🔲] Upload source code + user manual + flowchart + pseudocode
+[✅] Upload source code + user manual + flowchart + pseudocode
 
 [🔲] Upload slides and video presentation
 
@@ -116,9 +116,9 @@
 
 ## 🧾 Meeting Report
 
-[🔲] Write one-page meeting summary and task delegation
+[✅] Write one-page meeting summary and task delegation
 
-[🔲] Sign by all group members
+[✅] Sign by all group members
 
-[🔲] Submit with other documents
+[✅] Submit with other documents
 
