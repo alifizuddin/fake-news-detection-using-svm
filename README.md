@@ -86,7 +86,7 @@
 
 [✅] Background and literature review
 
-[🔲] Methodology (detailed explanation)
+[✅] Methodology (detailed explanation)
 
 [🔲] Results and discussion
 
