@@ -104,6 +104,39 @@
 
 [✅] Make sure all members participate
 
+## Current Implementation Notes
+
+### Setup
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+NLTK stopwords are downloaded automatically if missing.
+
+### Run
+
+```bash
+python main.py
+```
+
+The script first audits the dataset, trains a TF-IDF + linear SVM pipeline, evaluates it on a
+stratified group-aware holdout split, saves reports to `reports/`, and then opens the GUI.
+
+### Methodology
+
+- Dataset audit: labels, class balance, missing values, duplicate titles, conflicting labels.
+- Text cleaning: lowercasing, URL/punctuation removal, stopword removal.
+- Splitting: `StratifiedGroupKFold` with the normalized title as the group key, so duplicate
+  titles cannot leak across train and test sets.
+- Vectorization and classifier are combined in one scikit-learn `Pipeline`, so TF-IDF is fit
+  only on training data.
+- Classifier: linear SVM (`LinearSVC`) with balanced class weights.
+
+### Latest holdout results
+
+See `reports/evaluation_report.md` and `reports/metrics.json`.
+
 ## 📤 Final Submission
 
 [✅] Upload research paper (Springer/IJIC format)

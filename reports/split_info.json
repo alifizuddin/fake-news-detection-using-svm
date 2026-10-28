@@ -1,0 +1,14 @@
+{
+  "split_method": "StratifiedGroupKFold (group key: normalized title)",
+  "test_size_target": 0.2,
+  "train_size": 17282,
+  "test_size": 4319,
+  "train_class_balance": {
+    "0": 4137,
+    "1": 13145
+  },
+  "test_class_balance": {
+    "0": 1063,
+    "1": 3256
+  }
+}
