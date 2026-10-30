@@ -131,11 +131,17 @@ stratified group-aware holdout split, saves reports to `reports/`, and then open
   titles cannot leak across train and test sets.
 - Vectorization and classifier are combined in one scikit-learn `Pipeline`, so TF-IDF is fit
   only on training data.
+- Model selection: a small predeclared grid of TF-IDF options (unigram vs unigram+bigram,
+  `max_features`, `min_df`) and SVM regularization values (`C`) is tuned with
+  `GridSearchCV` using stratified group-aware cross-validation on the training set only.
+- Comparison: the tuned linear SVM is compared with majority-class and stratified baselines,
+  Multinomial Naive Bayes, and Logistic Regression.
+- Ablation: unigram-only and unigram+bigram TF-IDF are compared to show whether bigrams add value.
 - Classifier: linear SVM (`LinearSVC`) with balanced class weights.
 
 ### Latest holdout results
 
-See `reports/evaluation_report.md` and `reports/metrics.json`.
+See `reports/comparison_report.md` and `reports/comparison_results.json`.
 
 ## 📤 Final Submission
 
